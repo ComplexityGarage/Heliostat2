@@ -56,12 +56,12 @@ While activating this mode there are several options available:
   <img src="IMG_7899.jpeg" width="48%">
   <img src="IMG_7901.jpeg" width="48%">
 </p>
+
 # WHAT NEXT?
 The project ultimately should work without the need of constant connection to the computer. 
 
 The 3D design could be upgraded to hide the electronics underneath the stand to make it more visually stricking.
 
-I look forward to further modifications as I feel the Heliostat needs some more pampering.
 
 # SOURCES
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)
