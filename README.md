@@ -51,6 +51,11 @@ While activating this mode there are several options available:
 - Switching to mode ZERO
 - Checking the status of the servomotors position
 - Conduct a simulation of how the Heliostat works by setting an hour between 08:00 to 13:00
+
+<p align="center">
+  <img src="IMG_7899.jpeg" width="48%">
+  <img src="IMG_7901.jpeg" width="48%">
+</p>
 # WHAT NEXT?
 The project ultimately should work without the need of constant connection to the computer. 
 
